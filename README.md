@@ -62,7 +62,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/housssemm/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/housssemm/housssemm/output/snake.svg" alt="Snake animation" />
 
 ###
 
